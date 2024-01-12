@@ -1,9 +1,10 @@
 <h1 align="center">Hi there, I'm Dmitry 👋</h1>
 <h3 align="center">QA Engineer</h3>
 
-#### Top Repositories
+#### Top Repositories:
 
 <a href="https://github.com/Soilden1/tests_for_sg">Проект по автоматизации тестирования для Sabyget.ru</a> 
+
 <a href="https://github.com/Soilden1/reqres_in_tests">Проект по тестированию API на reqres.in</a>
 
 ### Used technologies in projects
